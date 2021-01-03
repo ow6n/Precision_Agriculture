@@ -1,3 +1,7 @@
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/RentadroneCL/Precision_Agriculture)
+
+[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/RentadroneCL/Precision_Agriculture)
+
 # Precision Agriculture
 
 ![GitHub](https://img.shields.io/github/license/RentadroneCL/Precision_Agriculture)
